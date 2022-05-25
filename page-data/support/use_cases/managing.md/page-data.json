@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-markdown-remark-js",
+    "path": "/support/use_cases/managing.md",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Thoth Station Help"}},"markdownRemark":{"id":"6d8f5ea1-69a8-5153-83ba-a065bd6ff430","html":"<p>How can we (data scientist) automate the process of managing vulnerabilities: Tutorial gives us an instruction on managing vulnerabilities on an individual basis. Question that arises is , is it possible to integrate this process as a filter so that data scientists will not be able to install vulnerable packages. They can concentrate on DS workflow without worrying about the vulnerabilities.</p>","fields":{"srcLink":"https://github.com/thoth-station/help/blob/master/content/support/use_cases/managing.md"},"frontmatter":{"title":"","description":null}}},"pageContext":{"id":"6d8f5ea1-69a8-5153-83ba-a065bd6ff430"}},
+    "staticQueryHashes": ["1276261476","2902925331","3000541721"]}
